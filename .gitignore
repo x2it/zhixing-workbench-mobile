@@ -1,0 +1,23 @@
+node_modules/
+dist/
+build/
+.expo/
+.expo-shared/
+.eslintcache
+expo/expo-env.d.ts
+expo-env.d.ts
+.DS_Store
+logs/
+*.tsbuildinfo
+node-compile-cache/
+.cozeproj/reduction
+.codegraph
+
+# 原生工程目录（CNG：由 expo prebuild 从 app.config.ts 生成，不入库）
+client/android/
+client/ios/
+
+# 本地环境变量
+.env
+.env.local
+.env.*.local
