@@ -20,11 +20,11 @@
 
 ---
 
-**知行工作台（Zhixing Workbench）** 是一个极简的全屏 WebView 容器：把常用站点放进一个沉浸式的深色工作台，像终端一样干净、专注。支持站点管理、桌面模式、文件下载、快捷分享——移动端（React Native WebView）与 Web 端（iframe）双实现，一套代码跨三端。
+**知行工作台（Zhixing Workbench）** 是一个极简的全屏 WebView 容器：把常用站点放进一个沉浸式的深色工作台，极简、专注。支持站点管理、桌面模式、文件下载、快捷分享——移动端（React Native WebView）与 Web 端（iframe）双实现，一套代码跨三端。
 
-A minimal full-screen WebView container that hosts your everyday sites in one immersive, terminal-clean workspace — with site management, desktop-mode browsing, file download and quick share. One codebase, three platforms: Android / iOS / Web.
+A minimal full-screen WebView container that hosts your everyday sites in one immersive, minimal workspace — with site management, desktop-mode browsing, file download and quick share. One codebase, three platforms: Android / iOS / Web.
 
-## ✨ 特性 / Features
+## 特性 / Features
 
 - **全屏沉浸** — 内容即界面，导航与控制元素按需浮现 / Full-screen immersion, controls appear only when needed
 - **站点管理** — 添加、编辑、删除、一键切换，本地持久化 / Add, edit, remove and switch sites, persisted locally
@@ -35,7 +35,7 @@ A minimal full-screen WebView container that hosts your everyday sites in one im
 - **手势支持** — 长按顶部呼出设置、边缘右滑返回历史 / Long-press top edge for settings, edge-swipe for history
 - **深色主题** — 极深蓝黑 `#020617` + 科技蓝 `#3B82F6` / Deep-slate dark theme
 
-## 🚀 快速开始 / Quick Start
+## 快速开始 / Quick Start
 
 ```bash
 # 1. 安装依赖 / Install dependencies (pnpm workspace)
@@ -61,7 +61,7 @@ npx expo run:ios           # iOS
 npx expo export -p android --output-dir dist
 ```
 
-## 📦 技术栈 / Tech Stack
+## 技术栈 / Tech Stack
 
 | 层 Layer | 技术 / Technology |
 |---|---|
@@ -71,7 +71,7 @@ npx expo export -p android --output-dir dist
 | 服务端 | Express（静态托管 + `/api/v1/health` + SPA fallback） |
 | 工程 | pnpm workspace monorepo · Tailwind（Uniwind） |
 
-## 📁 目录结构 / Structure
+## 目录结构 / Structure
 
 ```
 ├── client/                # Expo / React Native 前端
@@ -85,7 +85,7 @@ npx expo export -p android --output-dir dist
 └── server.js              # 生产入口
 ```
 
-## 📄 协议 / License
+## 协议 / License
 
 [GNU Affero General Public License v3.0](LICENSE) — 自由使用、修改、分发；基于本项目的网络服务需开放源代码。
 
@@ -95,6 +95,6 @@ Free to use, modify and distribute. Network services built upon this project mus
 
 <div align="center">
 
-**© 2026 知行工作室** · [https://w3b.pub/](https://w3b.pub/) · [support@w3b.pub](mailto:support@w3b.pub)
+© 2026 知行工作室 · [https://w3b.pub/](https://w3b.pub/) · support@w3b.pub
 
 </div>
