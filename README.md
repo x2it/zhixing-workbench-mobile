@@ -9,10 +9,10 @@
 > 知行合一 — 内容与工具的纯粹容器
 > Full-screen WebView container for content & tools
 
-[![License](https://img.shields.io/badge/License-AGPL--3.0-4AF626.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Web-4AF626.svg)]()
-[![Expo](https://img.shields.io/badge/Expo-54-4AF626.svg)]()
-[![Version](https://img.shields.io/badge/Version-2.0.0-4AF626.svg)]()
+[![License](https://img.shields.io/badge/License-AGPL--3.0-151515.svg)](LICENSE)
+[![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Web-151515.svg)]()
+[![Expo](https://img.shields.io/badge/Expo-54-151515.svg)]()
+[![Version](https://img.shields.io/badge/Version-2.0.0-151515.svg)]()
 
 ![banner](.github/banner.png)
 
