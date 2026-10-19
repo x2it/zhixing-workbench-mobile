@@ -14,7 +14,7 @@
 [![Expo](https://img.shields.io/badge/Expo-54-151515.svg)]()
 [![Version](https://img.shields.io/badge/Version-2.0.0-151515.svg)]()
 
-![banner](.github/banner.png)
+<img src="https://raw.githubusercontent.com/x2it/zhixing-workbench-mobile/main/.github/banner.png" alt="知行工作台 · 手机版" width="100%">
 
 </div>
 
